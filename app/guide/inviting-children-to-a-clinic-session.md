@@ -5,14 +5,17 @@ order: 69
 ---
 [[toc]]
 
-> [!NOTE]
-> This guidance is for teams taking part in the clinics pilot. If your team is not taking part, use the [existing guidance for clinics](/guide/community-clinics/). We're continuing to improve these features during the pilot, so some screenshots and instructions may not match what you see in Mavis.
-
 To invite children to a clinic session, you can: 
 
 - use the **Eligible for clinic** filter in **Children** in the main navigation
 - share a booking link for your clinic sessions (for example, in an advert so that any parent can make an appointment for their child)
-- invite them in the usual way from a [school session overview or from a child, home-educated or unknown school record](/guide/community-clinics/)
+
+You can also:
+- invite them from a school session overview (if they’ve missed school vaccination sessions)
+- invite them individually from a child record
+- invite children whose school is unknown or who are home-educated
+
+Parents do not receive automatic reminders for clinic invitations.
 
 ## Eligible for clinic filter
 
@@ -56,3 +59,43 @@ One of the following rules must also apply:
 **Copy link** and paste it where you need to.
 
 ![Screenshot of invitation link.](/assets/images/share-booking-link.png)
+
+## Inviting children from a school session overview
+
+Some children may have missed being vaccinated at a school session, for example if they were ill or on holiday at the time.
+
+To send clinic invitations to these children:
+
+1. Go to the sessions for schools that you are not going to return to in this vaccination programme.
+2. In each school session, select the **Send clinic invitations** link (at the bottom of the **Overview** tab). This will show you a summary of how many invitations will be sent out.
+3. Select **Send clinic invitations**. Invitations are sent immediately.
+
+[! Screenshot of clinic invitations summary page.](/assets/images/send-clinic-invitations-summary.png)
+
+## Inviting individual children from a child record
+
+You can invite individual children to a clinic directly from their record in Mavis. If an invitation has already been sent, you can send a reminder instead.
+
+1. From the dashboard, go to **Children**.
+2. Find the child you want to invite and open their record.
+3. Select the vaccination programme, either from the tabs at the top or the list in the **Vaccination programmes** area.
+4. Select **Invite to upcoming clinic session** at the bottom of the Sessions area. The invitation is sent immediately.
+
+The **Invite to upcoming clinic session** button only shows if the child is due the vaccination.
+
+If the child has already been invited, the button will show as **Send clinic invitation reminder**.
+
+## If the child is home-educated or their school is unknown 
+
+Mavis no longer sends automatic clinic invitations to children who are home-educated or have no known school.
+You can manually send clinic invitations in bulk to the parents of children who:
+
+- are home-educated or have no known school
+- are due a vaccination for the programme you select
+- have not yet been invited to a clinic  
+
+1. From the dashboard, go to **Schools**.
+2. Search for then select **Home-educated** or **Unknown school**, as needed.
+3. Select **Send clinic invitations** in the top left of the screen.
+4. Select the programmes you want to send invitations for.
+5. Select **Send clinic invitations**. Invitations are sent immediately.
