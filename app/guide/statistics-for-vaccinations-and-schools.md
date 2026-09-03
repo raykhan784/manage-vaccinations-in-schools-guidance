@@ -6,7 +6,7 @@ order: 80
 
 [[toc]]
 
-The **Reports** area of Mavis lets you:
+The **Reports** area of Mavis lets you:  
 
 - view consent and vaccination data for children, schools and local authorities in your area
 - download vaccination reports to review or share when needed
