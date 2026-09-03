@@ -6,9 +6,6 @@ order: 65
 
 [[toc]]
 
-> [!NOTE]
-> This guidance is for teams taking part in the clinics pilot. If your team is not taking part, use the [existing guidance for clinics](/guide/community-clinics/). We're continuing to improve these features during the pilot, so some screenshots and instructions may not match what you see in Mavis.
-
 Before you create a session, the Mavis team needs to set up your team’s clinic locations. Contact england.mavis@nhs.net if you have questions about this.
 
 Once your locations are set up:
