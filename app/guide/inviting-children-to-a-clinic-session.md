@@ -13,7 +13,7 @@ To invite children to a clinic session, you can:
 You can also:
 - invite them from a school session overview (if they’ve missed school vaccination sessions)
 - invite them individually from a child record
-- invite children whose school is unknown or who are home-educated
+- invite children whose school is unknown or who are home educated
 
 Parents do not receive automatic reminders for clinic invitations.
 
@@ -47,7 +47,7 @@ Mavis uses all of the following rules to work out, for each programme, which chi
 One of the following rules must also apply:
 
 - they were not vaccinated when their school sessions took place
-- they are home-schooled
+- they are home educated
 - they are at an unknown school
 
 ## Share a booking link
@@ -67,7 +67,7 @@ Some children may have missed being vaccinated at a school session, for example 
 To send clinic invitations to these children:
 
 1. Go to the sessions for schools that you are not going to return to in this vaccination programme.
-2. In each school session, select the **Send clinic invitations** link (at the bottom of the **Overview** tab). This will show you a summary of how many invitations will be sent out.
+2. In each school session, select the **Send clinic invitations** link (in the **Action required** section). This will show you a summary of how many invitations will be sent out.
 3. Select **Send clinic invitations**. Invitations are sent immediately.
 
 [! Screenshot of Send clinic invitations link.](/assets/images/send-clinic-invitations-link.png)
@@ -89,12 +89,12 @@ If the child has already been invited, the button will show as **Send clinic inv
 
 [! Screenshot of Invite to upcoming clinic session.](/assets/images/invite-to-upcoming-clinic-session.png)
 
-## If the child is home-educated or their school is unknown 
+## If the child is home educated or their school is unknown 
 
-Mavis no longer sends automatic clinic invitations to children who are home-educated or have no known school.
+Mavis no longer sends automatic clinic invitations to children who are home educated or have no known school.
 You can manually send clinic invitations in bulk to the parents of children who:
 
-- are home-educated or have no known school
+- are home educated or have no known school
 - are due a vaccination for the programme you select
 - have not yet been invited to a clinic  
 
