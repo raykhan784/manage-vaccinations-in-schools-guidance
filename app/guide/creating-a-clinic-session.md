@@ -1,6 +1,6 @@
 ---
 title: Creating a clinic session
-theme: Clinics pilot
+theme: Community clinics
 order: 65
 ---
 

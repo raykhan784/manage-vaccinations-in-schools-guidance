@@ -1,6 +1,6 @@
 ---
 title: Inviting children to a clinic session
-theme: Clinics pilot
+theme: Community clinics
 order: 69
 ---
 [[toc]]

@@ -1,6 +1,6 @@
 ---
 title: How clinics work in Mavis
-theme: Clinics pilot
+theme: Community clinics
 order: 63
 ---
 

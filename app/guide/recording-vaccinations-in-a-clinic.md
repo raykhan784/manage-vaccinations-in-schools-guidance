@@ -1,6 +1,6 @@
 ---
 title: Recording vaccinations in a clinic
-theme: Clinics pilot
+theme: Community clinics
 order: 75
 ---
 
