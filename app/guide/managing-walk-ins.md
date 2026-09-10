@@ -1,6 +1,6 @@
 ---
 title: Managing walk-ins
-theme: Clinics pilot
+theme: Community clinics
 order: 73
 ---
 
