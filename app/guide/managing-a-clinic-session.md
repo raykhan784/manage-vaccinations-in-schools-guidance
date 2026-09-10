@@ -1,6 +1,6 @@
 ---
 title: Managing a clinic session
-theme: Clinics pilot
+theme: Community clinics
 order: 67
 ---
 [[toc]]
