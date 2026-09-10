@@ -1,6 +1,6 @@
 ---
 title: Managing clinic appointments
-theme: Clinics pilot
+theme: Community clinics
 order: 71
 ---
 
