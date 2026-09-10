@@ -6,9 +6,6 @@ order: 75
 
 [[toc]]
 
-> [!NOTE]
-> This guidance is for teams taking part in the clinics pilot. If your team is not taking part, use the [existing guidance for clinics](/guide/community-clinics/). We’re continuing to improve these features during the pilot, so some screenshots and instructions may not match what you see in Mavis.
-
 Find the session and select it.
 
 Then, from the session overview, find the child’s appointment record by selecting **Appointments**, then their name. Other ways to find the child are by selecting **Children in session** or **Record vaccinations**.

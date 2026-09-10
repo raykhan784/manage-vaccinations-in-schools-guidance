@@ -5,9 +5,6 @@ order: 67
 ---
 [[toc]]
 
-> [!NOTE]
-> This guidance is for teams taking part in the clinics pilot. If your team is not taking part, use the [existing guidance for clinics](/guide/community-clinics/). We're continuing to improve these features during the pilot, so some screenshots and instructions may not match what you see in Mavis.
-
 You can manage a clinic session using the session overview.
 
 ![Screenshot of session overview.](/assets/images/session-overview.png)
