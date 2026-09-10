@@ -162,3 +162,28 @@ You can create a clinic appointment for a child on behalf of their parent or gua
 15. If the details are correct, select **Add this appointment**.
 
 The selected contact will receive confirmation of the appointment immediately.
+
+## Booking an appointment directly from a clinic session
+
+You can book an appointment directly from a clinic session that is scheduled or in progress. This can help save time, such as when transferring bookings from another system. 
+
+From the clinic session overview you can book an appointment using:
+
+- an available appointment slot
+- the **Children in session** navigation link
+
+###Using an available appointment slot
+
+![Screenshot of appointments available.](/assets/images/bookable-appointments-in-session.png)
+
+1. Select **Appointments**.
+2. Select **Book** for the relevant slot.
+3. Complete the appointment booking form.
+
+###Using the Children in session link
+
+![Screenshot of add child to clinic link.](/assets/images/add-child-to-clinic.png)
+
+1. Select **Children in session**.
+2. Select **Add a child to this clinic**.
+3. Complete the appointment booking form.
