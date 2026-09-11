@@ -7,6 +7,8 @@ eleventyComputed:
     key: Adding and editing school sessions
 ---
 
+[[toc]]
+
 You can create sessions in Mavis for any of the programmes you’re running. You can edit the session details later, if you need to.
 
 You should only schedule sessions after you’ve uploaded vaccination records and class lists.
