@@ -4,7 +4,7 @@ theme: Organising sessions
 order: 21
 eleventyComputed:
   eleventyNavigation:
-    key: Keeping track of sessions
+    key: Keeping track of school sessions
 ---
 
 All sessions in Mavis have an overview page that shows a summary of the vaccination session.
